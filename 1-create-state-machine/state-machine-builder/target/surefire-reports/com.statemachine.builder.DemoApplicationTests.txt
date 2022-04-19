@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.statemachine.builder.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.75 s - in com.statemachine.builder.DemoApplicationTests

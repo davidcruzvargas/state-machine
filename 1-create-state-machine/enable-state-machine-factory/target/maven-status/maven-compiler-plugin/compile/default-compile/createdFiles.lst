@@ -1,0 +1,5 @@
+com\statemachine\enablefactory\config\StateMachineConfig.class
+com\statemachine\enablefactory\machine\Events.class
+com\statemachine\enablefactory\EnableAnnotationMachineFactory.class
+com\statemachine\enablefactory\machine\States.class
+com\statemachine\enablefactory\config\StateMachineConfig$1.class

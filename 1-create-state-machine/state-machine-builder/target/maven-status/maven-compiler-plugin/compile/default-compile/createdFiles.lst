@@ -1,0 +1,5 @@
+com\statemachine\builder\MachineBuilder.class
+com\statemachine\builder\machine\States.class
+com\statemachine\builder\config\StateMachineConfig.class
+com\statemachine\builder\config\StateMachineConfig$1.class
+com\statemachine\builder\machine\Events.class
